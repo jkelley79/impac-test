@@ -13,11 +13,13 @@ impac-ui
 
 How to run it
 -------------
+'''
 cd impac-api
 rails server
 
 cd impac-ui
 npm start
+'''
 
 This will start the Ruby code on port 3000 and the Angular app on 8000 so the two
 can talk.
