@@ -1,0 +1,7 @@
+== README
+This is my first rails application so bear with me if something is missing or not quite setup. I used the WEBrick server to get it running locally on my Macbook Pro
+
+Running rails 4.2.6 and ruby 2.3.0
+
+To get it running:
+rails server (should be port 3000)
