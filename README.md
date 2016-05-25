@@ -36,3 +36,7 @@ with Karine she relayed to be "creative" so hopefully that came through in my re
 
 Also the various easter eggs are meant to relay a sense of humor on my part and not a
 lack of professionalism.
+
+Here is a screenshot of what the dashboard should look like:
+
+![Alt text](Dashboard.png?raw=true "Dashboard")
