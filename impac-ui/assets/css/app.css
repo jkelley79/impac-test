@@ -1,34 +1,4 @@
 /* app css stylesheet */
-
-.menu {
-  list-style: none;
-  border-bottom: 0.1em solid black;
-  margin-bottom: 2em;
-  padding: 0 0 0.5em;
-}
-
-.menu:before {
-  content: "[";
-}
-
-.menu:after {
-  content: "]";
-}
-
-.menu > li {
-  display: inline;
-}
-
-.menu > li:before {
-  content: "|";
-  padding-right: 0.3em;
-}
-
-.menu > li:nth-child(1):before {
-  content: "";
-  padding: 0;
-}
-
 #sales {
   min-height: 400px;
 }
@@ -61,13 +31,14 @@
 }
 
 .mapframe {
+  background-color: #fff;
   border: 10px solid #fff;
   border-bottom: 45px solid #fff;
   -webkit-box-shadow: 3px 3px 3px #777;
      -moz-box-shadow: 3px 3px 3px #777;
           box-shadow: 3px 3px 3px #777;
 }
-.mapframe p {
+.maplabel {
   position: absolute;
   text-align: center;
   width: 90%;
@@ -75,6 +46,18 @@
   color: #888;
 }
 
+body {
+  background-color: #474747 !important;
+}
+
 .myalerts {
   padding:50px !important;
+}
+
+.page-header {
+  border: 0px none !important;
+}
+
+.page-header h1 {
+  color: #ddd;
 }

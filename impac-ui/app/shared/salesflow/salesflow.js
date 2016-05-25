@@ -7,6 +7,7 @@
         return {
             restrict: 'A',
             replace: false,
+            templateUrl: 'app/shared/salesflow/salestemplate.html',
             link: function (scope, element, attributes) {
 
                 function updateMap() {
