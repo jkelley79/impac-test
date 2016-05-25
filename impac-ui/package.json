@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
-  "private": true,
-  "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "name": "impac-ui",
+  "private": false,
+  "version": "0.0.1",
+  "description": "An exercise project for AngularJS front end to a simple dashboard app",
+  "repository": "https://github.com/jkelley79/impac-test",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.3.1",
